@@ -23,3 +23,7 @@ My first repository for 3720
 Ward has invaded Liams repository ...
 
 This is Ethan Eill, great README!
+
+Hey this is a link to a video i found that had good tips for working with git
+
+https://youtu.be/dQw4w9WgXcQ
